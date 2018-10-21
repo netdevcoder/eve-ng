@@ -12,5 +12,7 @@ this code will parse the LAB file and then set initial config like device hostna
 Feel free to clone this code and modified it to your own needs.
 
 thanks
+
 regards
+
 netdevcoder
